@@ -24,7 +24,6 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        working-directory: MidtermAPI_NiravSaxena
         run: dotnet build --configuration Release
 
       - name: dotnet publish
@@ -65,5 +64,6 @@ jobs:
           package: .
 
           
+
 
 
