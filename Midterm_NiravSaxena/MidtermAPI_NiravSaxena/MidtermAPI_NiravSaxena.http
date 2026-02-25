@@ -1,0 +1,6 @@
+@MidtermAPI_NiravSaxena_HostAddress = http://localhost:5214
+
+GET {{MidtermAPI_NiravSaxena_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "MidtermAPI_NiravSaxena.Controllers.NSProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "MidtermAPI_NiravSaxena.Models.NSProduct",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_NiravSaxena.Controllers.NSProductController",
+    "Method": "GetProducts",
+    "RelativePath": "Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_NiravSaxena.Controllers.NSProductController",
+    "Method": "GetUsage",
+    "RelativePath": "usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
