@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\controllers\\nsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\controllers\\nsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermmvc_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|solutionrelative:midtermmvc_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermmvc_niravsaxena\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|solutionrelative:midtermmvc_niravsaxena\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermmvc_niravsaxena\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|solutionrelative:midtermmvc_niravsaxena\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermmvc_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|solutionrelative:midtermmvc_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\models\\nsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC31AE43-7E1F-4200-8075-DC463974A309}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\models\\nsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermmvc_niravsaxena\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78B7900-5B20-476D-80A1-29AD91E3EA41}|MidtermMVC_NiravSaxena\\MidtermMVC_NiravSaxena.csproj|solutionrelative:midtermmvc_niravsaxena\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\controllers\\nsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\controllers\\nsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|c:\\users\\nirav\\onedrive\\desktop\\midterm_niravsaxena\\midterm_niravsaxena\\midtermapi_niravsaxena\\models\\nsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D2CB8D-FFBF-CD08-A1B7-E1F6751BB9D8}|MidtermAPI_NiravSaxena\\MidtermAPI_NiravSaxena.csproj|solutionrelative:midtermapi_niravsaxena\\models\\nsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +66,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MidtermMVC_NiravSaxena\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MidtermMVC_NiravSaxena\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:22:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Program.cs",
+              "RelativeDocumentMoniker": "MidtermMVC_NiravSaxena\\Program.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Program.cs",
+              "RelativeToolTip": "MidtermMVC_NiravSaxena\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:21:31.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MidtermAPI_NiravSaxena\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T23:20:54.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\appsettings.json",
+              "RelativeDocumentMoniker": "MidtermMVC_NiravSaxena\\appsettings.json",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\appsettings.json",
+              "RelativeToolTip": "MidtermMVC_NiravSaxena\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T23:20:30.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MidtermMVC_NiravSaxena\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MidtermMVC_NiravSaxena\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T23:18:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MidtermMVC_NiravSaxena\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermMVC_NiravSaxena\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "MidtermMVC_NiravSaxena\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:16:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Program.cs",
               "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\Program.cs",
@@ -50,12 +152,11 @@
               "RelativeToolTip": "MidtermAPI_NiravSaxena\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:32:26.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:32:26.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\appsettings.json",
               "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\appsettings.json",
@@ -68,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ApiKeyMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\Middleware\\ApiKeyMiddleware.cs",
@@ -76,12 +177,11 @@
               "RelativeToolTip": "MidtermAPI_NiravSaxena\\Middleware\\ApiKeyMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:29:33.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:29:33.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "NSProduct.cs",
               "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Models\\NSProduct.cs",
               "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\Models\\NSProduct.cs",
@@ -89,18 +189,17 @@
               "RelativeToolTip": "MidtermAPI_NiravSaxena\\Models\\NSProduct.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:20:32.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:20:32.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "NSProductController.cs",
               "DocumentMoniker": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Controllers\\NSProductController.cs",
               "RelativeDocumentMoniker": "MidtermAPI_NiravSaxena\\Controllers\\NSProductController.cs",
               "ToolTip": "C:\\Users\\nirav\\OneDrive\\Desktop\\Midterm_NiravSaxena\\Midterm_NiravSaxena\\MidtermAPI_NiravSaxena\\Controllers\\NSProductController.cs",
               "RelativeToolTip": "MidtermAPI_NiravSaxena\\Controllers\\NSProductController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwEIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T22:10:18.877Z",
               "EditorCaption": ""

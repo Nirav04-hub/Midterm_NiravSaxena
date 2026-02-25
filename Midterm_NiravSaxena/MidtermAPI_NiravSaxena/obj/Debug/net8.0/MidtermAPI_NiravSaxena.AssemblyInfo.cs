@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidtermAPI_NiravSaxena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08cf3a44d931556aa6e71b654c69739d1222ddf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidtermAPI_NiravSaxena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidtermAPI_NiravSaxena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
