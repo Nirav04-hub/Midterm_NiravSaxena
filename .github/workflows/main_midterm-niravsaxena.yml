@@ -23,11 +23,14 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Build with dotnet
-        run: dotnet build --configuration Release
+      - name: Restore
+        run: dotnet restore Midterm_NiravSaxena/MidtermAPI_NiravSaxena/MidtermAPI_NiravSaxena.csproj
 
-      - name: dotnet publish
-        run: dotnet publish -c Release -o ${{ env.DOTNET_ROOT }}/myapp
+      - name: Build
+        run: dotnet build Midterm_NiravSaxena/MidtermAPI_NiravSaxena/MidtermAPI_NiravSaxena.csproj -c Release --no-restore
+
+      - name: Publish
+        run: dotnet publish Midterm_NiravSaxena/MidtermAPI_NiravSaxena/MidtermAPI_NiravSaxena.csproj -c Release -o ${{ github.workspace }}/publish --no-build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
@@ -64,6 +67,7 @@ jobs:
           package: .
 
           
+
 
 
 
